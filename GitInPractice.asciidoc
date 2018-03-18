@@ -2,3 +2,6 @@ GitInPracticeRedux: Demo File for Git
 Adding second line
 Adding third line
 Adding fourth line
+=========================
+Adding line to test Fetch
+=========================
